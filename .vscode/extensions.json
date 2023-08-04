@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "aaron-bond.better-comments",
+    "igorsbitnev.error-gutters",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree",
+    "visualstudioexptteam.vscodeintellicode",
+    "redhat.vscode-yaml",
+    "usernamehw.errorlens"
+  ]
+}
